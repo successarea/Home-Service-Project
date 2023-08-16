@@ -1,4 +1,5 @@
 ## This is a Home Service Laravel Project.
+### Features
 - This encompasses a platform for booking various home services.
 - Four main service categories: Aircon Service, Home Appliances Service, Home Cleaning Service, and Pest Control Services.
 - Each main category includes various detailed services.
